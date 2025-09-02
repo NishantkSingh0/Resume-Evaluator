@@ -10,7 +10,6 @@ import json
 import os
 import re
 
-# load_dotenv(dotenv_path=os.path.join(os.path.dirname(__file__), '..', '.env'))
 load_dotenv()
 
 gpt4o_mini = ChatOpenAI(
@@ -219,3 +218,4 @@ def calculate_ats_score(resume_text: str, job_role: str, experience_level: Union
             "feedback": f"Error in ATS scoring: {e}",
 
         }
+
