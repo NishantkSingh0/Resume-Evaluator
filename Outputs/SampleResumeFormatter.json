@@ -1,0 +1,36 @@
+{
+    "InterviewInfo": {
+        "areas": ["Machine Learning Algorithms", "Data Preprocessing", "Model Evaluation Techniques", "Project Deployment", "Leadership and Teamwork"], 
+        "subtopics": [
+            "Understanding and application of various ML algorithms like Linear Regression, K-Means, ANN, and CNN.", 
+            "Techniques for cleaning, merging, and handling missing data to enhance model performance.", 
+            "Knowledge of metrics such as F1 Scores, MAE, MSE, and accuracy for evaluating model effectiveness.", 
+            "Experience in deploying models using modern ML pipelines and tools like TensorFlow and Gradio.", 
+            "Experience in leading teams in a hackathon setting and during live projects, showcasing collaboration and leadership skills."
+        ]
+    }, 
+    "Formate Resume": {
+        "FullName": "NISHANT KUMAR", 
+        "Designation": "Data Scientist", 
+        "Years of experience": 0.17, 
+        "Educations": [
+            {
+                "UniversityName": "Haridwar University", 
+                "Course": "Bachelor's in Computer Application", 
+                "Year": [2023, 2026]
+            }
+        ], 
+        "Skills": ["Advanced-Python", "C/C++", "Java", "JavaScript", "NumPy", "Pandas", "Scikit-learn", "OpenCV", "Matplotlib", "Keras", "Seaborn", "NLP", "LoRA", "TensorFlow", "LangChain", "LangGraph", "Flask", "React", "Jupyter", "Kaggle", "Colab", "VS-Code", "Github", "Git", "Firebase", "Fly.io", "Vercel", "Render", "Gradio", "StreamLit"], 
+        "Experience": [
+            {
+                "OrgName": "Haridwar University", 
+                "Year": [2025, 2025], 
+                "Designation": "Data Science Intern"
+            }, {
+                "OrgName": "Onlei Technologies", 
+                "Year": [2025, 2025], 
+                "Designation": "Data Science Intern"
+            }
+        ]
+    }
+}
