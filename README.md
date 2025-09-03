@@ -107,7 +107,9 @@ python main.py
 
 ## View Reports:
 
-Check the Reports/ directory for comparative analysis of evaluation scores across different LLMs (GPT-4o-mini, LLaMA-4-16e, LLaMA-4-128e). Your can adjust model based on your need and efficiency..  
+Check the Reports/ directory for comparative analysis of evaluation scores across different LLMs (GPT-4o-mini, LLaMA-4-16e, LLaMA-4-128e). Your can adjust model based on your need and efficiency..    
+<br>
+#### `Colab`: https://colab.research.google.com/drive/10wd1DYeKcNU_k45b40_rJpjCrFu8yV5Y?usp=sharing
 
 
 
